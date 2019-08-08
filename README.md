@@ -1,2 +1,2 @@
 # hello-world
-new project for a leanrner
+new project for a learner
