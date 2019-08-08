@@ -1,2 +1,2 @@
 # hello-world
-new project for a student
+new project for a leanrner
